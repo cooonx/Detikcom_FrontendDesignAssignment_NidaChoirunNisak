@@ -36,11 +36,7 @@
 .fw-medium {
   font-weight: 500;
 }
-
-.card:hover {
-  background: #0c88b9;
-}
-
+ 
 /*** Spinner ***/
 #spinner {
   opacity: 0;
