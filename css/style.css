@@ -308,7 +308,7 @@
 
 .project-carousel .owl-nav .owl-prev:hover,
 .project-carousel .owl-nav .owl-next:hover {
-  background: var(--primary);
+  background: #0c88b9;
   color: #ffffff;
 }
 
